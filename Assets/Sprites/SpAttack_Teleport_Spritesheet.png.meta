@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: 3933482f59528714c81881b280b7f70d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1439
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e364cb0945f145b83361b6a24c763
+      internalID: -378334721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1336
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e554f48117781489b9e4f2877bdda9
+      internalID: 1657576948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1336
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b598e1f405e08784c8607743f4ab375c
+      internalID: -1265476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1336
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b6dbba66d6eb4ba4422d39dcc61c0
+      internalID: 1351287928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1338
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b5e83881245b945ad0f9832485c870
+      internalID: 1667006257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1347
+        width: 88
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b189cdcf061bde640909523ab5789e7c
+      internalID: 1215169436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1106
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b66fc44adaa26409ed3287c294639e
+      internalID: -1744605574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabeb9e7426ad5344ab6af3298ba45d6
+      internalID: -688570209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1057
+        width: 121
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f983130502464a9ecd782409104e7
+      internalID: 1713922053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1109
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c482e1bac3b946966480d34d1bf79
+      internalID: -547393620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1119
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1626ed55e8895e2478a8477f75a0468c
+      internalID: 1369123543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1131
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618ba57b016e3f4ba7ab0c02d284b33
+      internalID: 873919882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1129
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523871f2b80a2a44c9263476217bcd5d
+      internalID: 602987636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 678
+        width: 130
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ab0a72d6b73645b88cfbd2331d57c
+      internalID: -1240577164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 673
+        width: 128
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37305a6cfab4d624fbebb8a7a24a99a5
+      internalID: -2023906223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 674
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16ae9852c86d6448b602afb210a984c
+      internalID: 322263945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 670
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec4fee45ff9594f90303c60119f557
+      internalID: -708498943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 670
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202e3f258e0add42954ecab1022184d
+      internalID: -1685643052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 675
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8981ec347949f4a8c05142fe2826d8
+      internalID: -690764528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 673
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6045d75e244a9459f94e4821ef04a3
+      internalID: -799499446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 344
+        width: 15
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523fabf879731604e83d8325b3989b39
+      internalID: -1331254773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 344
+        width: 16
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb6935d8518ed409111df26950b7b4
+      internalID: -166833734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 359
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bede416890a87448205508a18f537e
+      internalID: 751077922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 341
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6547d2b9a983304db363deb793ffb13
+      internalID: -1907260821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 341
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaec4e8a4d9ff34791c1fb27de826be
+      internalID: 1807787658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 339
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e284420cb7034e4c9cec9b9b50cc350
+      internalID: -1962060833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 12
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a48ff78be8a1d42a2c2f243adf3dc7
+      internalID: -1297689548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack_Teleport_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a6918e4c50d74799d907107a72777
+      internalID: -656022833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpAttack_Teleport_Spritesheet_13: -688570209
+      SpAttack_Teleport_Spritesheet_23: 68054179
+      SpAttack_Teleport_Spritesheet_18: 1369123543
+      SpAttack_Teleport_Spritesheet_65: -1297689548
+      SpAttack_Teleport_Spritesheet_36: 641254052
+      SpAttack_Teleport_Spritesheet_34: 515035578
+      SpAttack_Teleport_Spritesheet_62: 451811435
+      SpAttack_Teleport_Spritesheet_38: 322263945
+      SpAttack_Teleport_Spritesheet_47: -2050078177
+      SpAttack_Teleport_Spritesheet_28: 1943630050
+      SpAttack_Teleport_Spritesheet_12: -1744605574
+      SpAttack_Teleport_Spritesheet_2: 1124043223
+      SpAttack_Teleport_Spritesheet_51: 2106376256
+      SpAttack_Teleport_Spritesheet_59: 116139035
+      SpAttack_Teleport_Spritesheet_26: 862584752
+      SpAttack_Teleport_Spritesheet_14: -1860745360
+      SpAttack_Teleport_Spritesheet_11: 1205792205
+      SpAttack_Teleport_Spritesheet_3: 1657576948
+      SpAttack_Teleport_Spritesheet_17: -547393620
+      SpAttack_Teleport_Spritesheet_35: -92162460
+      SpAttack_Teleport_Spritesheet_43: -1685643052
+      SpAttack_Teleport_Spritesheet_48: 1692603622
+      SpAttack_Teleport_Spritesheet_33: 580326010
+      SpAttack_Teleport_Spritesheet_22: 1027738135
+      SpAttack_Teleport_Spritesheet_52: -799499446
+      SpAttack_Teleport_Spritesheet_53: -1331254773
+      SpAttack_Teleport_Spritesheet_49: 967705141
+      SpAttack_Teleport_Spritesheet_8: 1667006257
+      SpAttack_Teleport_Spritesheet_9: 1215169436
+      SpAttack_Teleport_Spritesheet_61: 1446534523
+      SpAttack_Teleport_Spritesheet_55: 751077922
+      SpAttack_Teleport_Spritesheet_57: 1807787658
+      SpAttack_Teleport_Spritesheet_31: -1391162029
+      SpAttack_Teleport_Spritesheet_4: -1265476340
+      SpAttack_Teleport_Spritesheet_32: -2023906223
+      SpAttack_Teleport_Spritesheet_40: -708498943
+      SpAttack_Teleport_Spritesheet_25: -1240577164
+      SpAttack_Teleport_Spritesheet_16: 1713922053
+      SpAttack_Teleport_Spritesheet_42: -1496535815
+      SpAttack_Teleport_Spritesheet_0: -378334721
+      SpAttack_Teleport_Spritesheet_29: -1683453393
+      SpAttack_Teleport_Spritesheet_27: -38881840
+      SpAttack_Teleport_Spritesheet_6: 1351287928
+      SpAttack_Teleport_Spritesheet_44: -690764528
+      SpAttack_Teleport_Spritesheet_58: -1962060833
+      SpAttack_Teleport_Spritesheet_37: 577792523
+      SpAttack_Teleport_Spritesheet_46: -968860206
+      SpAttack_Teleport_Spritesheet_60: -1890191984
+      SpAttack_Teleport_Spritesheet_54: -166833734
+      SpAttack_Teleport_Spritesheet_1: -1127963102
+      SpAttack_Teleport_Spritesheet_56: -1907260821
+      SpAttack_Teleport_Spritesheet_66: -656022833
+      SpAttack_Teleport_Spritesheet_19: 873919882
+      SpAttack_Teleport_Spritesheet_64: -58012688
+      SpAttack_Teleport_Spritesheet_50: -577196194
+      SpAttack_Teleport_Spritesheet_39: -360642483
+      SpAttack_Teleport_Spritesheet_63: -969742399
+      SpAttack_Teleport_Spritesheet_20: 602987636
+      SpAttack_Teleport_Spritesheet_21: 2003249682
+      SpAttack_Teleport_Spritesheet_30: 1844754143
+      SpAttack_Teleport_Spritesheet_45: -1197475122
+      SpAttack_Teleport_Spritesheet_7: 1382329948
+      SpAttack_Teleport_Spritesheet_15: -353877342
+      SpAttack_Teleport_Spritesheet_24: 1055732785
+      SpAttack_Teleport_Spritesheet_41: -1213189665
+      SpAttack_Teleport_Spritesheet_5: -1088613819
+      SpAttack_Teleport_Spritesheet_10: 460500471
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

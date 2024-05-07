@@ -1,0 +1,4524 @@
+fileFormatVersion: 2
+guid: f8666edd3631ba44091945a27c169951
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MovementPack_1_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3104
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f278523164f54c2439ff0b9f5a7e7693
+      internalID: 1164292975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3104
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae3c57df96e87d45b3f605fcc0d56e3
+      internalID: -761308432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3107
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2309449b9d6f949a36a8f84539ef74
+      internalID: -960157259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3104
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefd1be6474ef247a68b58766f450ae
+      internalID: -1303829588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3104
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378c1acc38c8f342ac78d1ab61c1e10
+      internalID: -984068636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3107
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44ce6c35e171a448b0b3eb19eba76e
+      internalID: -1795907106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3005
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e28c029d1bab147a6b4e94aeaef881
+      internalID: 1206816808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3004
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e08a3aa1e465240b06ac4b938a4448
+      internalID: 1170858319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3004
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8426e94316e38a4da323a5ec4586a41
+      internalID: -943812139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3007
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864c3b181d7110439620668a11f9bb2
+      internalID: 1640257978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3007
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15469e7ac01bbd4db93d12c00db47e5
+      internalID: -1636015679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3007
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8869d5cec9b493b4c8a1a573a9788e77
+      internalID: -1371328814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2909
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb8ce875425bed4c933ce9c6f0eb1fd
+      internalID: -601057194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2907
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15b844788e7704cb7371197aec9f4d
+      internalID: 951560331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2907
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76de353d34eb2f64d88ea20bc8ca24a9
+      internalID: 1268265501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2907
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2c3668e69cac4b996c9c9b4ff97fa
+      internalID: 970489244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2907
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870eb7d8e7d261c42902a95653c67054
+      internalID: 2009838777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_17
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2907
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c4502d8788cf4893e0f7c335d48b5
+      internalID: 548850501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2804
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbdf0b4dbc6a994998e18b407bbe00a
+      internalID: -580411853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2804
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57858ea67d3c841836aa4534ed6a51
+      internalID: -1809562430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2802
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a4a7d090ff07b40a747b55980ddff6
+      internalID: -603348201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2801
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597052d0c67e88c4bb6b187b1b0a0c2d
+      internalID: -1448494261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2802
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394fab6a6aba204fad45ad99881aeeb
+      internalID: 1871119568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2802
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a4d714938c2a4d861d822370e4892
+      internalID: 1535118309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2704
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4d09028b9d754fab18075043c5894
+      internalID: -1553369884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2704
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4565e8b0e0dd5d49a0f6bd322ce07a9
+      internalID: -830623037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2706
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4573c89d59b944eb25f47a9394fcdf
+      internalID: 707209643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2704
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6fae0c145a9c4b993f94ac71e4dda
+      internalID: -1185432877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2704
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93b10ebcbc64c46ad1ad75705c5ed0
+      internalID: -2004962642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_29
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2706
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f89385da2e97d648877caee6e99a5e8
+      internalID: -642040023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2604
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b8be38718e2d49b3dfdada8b49aca
+      internalID: 702184129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2604
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a98bf2805176cf489363a76933ca696
+      internalID: 214785439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2602
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c82793452aaa45bdb3d25864e45d3
+      internalID: -920290785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2601
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f01a5f8fe4e0419a8564cf00dd7eb
+      internalID: -1205336882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_34
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2602
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e62d5d421493b4d887b68449b1d7f1
+      internalID: -1371055138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2602
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a724a2dd68ba4ff40a3aac62e86ea234
+      internalID: 1700866618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2509
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf66596a3063f4985c52647c4e8e5b
+      internalID: -1380677993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2507
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92301c3b372616a4ab3cf741e6e78c3b
+      internalID: 1390985322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2507
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c3c9aafba4aa6488475d2cbe9a4ddf
+      internalID: 1854414896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2507
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78a910b787180143a9e3c8365dbf42d
+      internalID: 1907033642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2507
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56700435c425eee48813cd7fdc880096
+      internalID: -1510513088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_41
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2507
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346f692aae31593409e4baf802f3f76c
+      internalID: 401700293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2405
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffbddb184134324c9be608c416c56cf
+      internalID: 1374679129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2404
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff766879529225943ae7b1b7f9218a0b
+      internalID: -843352890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2404
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236413075712655498616cd48c083fcd
+      internalID: -1747340678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_45
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2407
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7721ea36a846142ab8887cdb664b2d
+      internalID: -748916354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2407
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe4e92cbd53c546b14a3d23f94842f
+      internalID: -2145932322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_47
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2407
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8ced3d80f1ec4da252e9658792801
+      internalID: 822189024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2305
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630692a84b2d2ba4ba295ffa58eab82f
+      internalID: -48465136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2304
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c3f4bfb65980c4f951743b805d2db9
+      internalID: 1318697935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2304
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1b5f7098486fc4aabe54902096c17c
+      internalID: 84023409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2304
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592060082e143e4aa0b50939c998a33
+      internalID: 1097305485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_52
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2304
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308dbb60b7aa9a49a7b52bf2ead1df9
+      internalID: -1234900209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_53
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2304
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23eff6f1bc42e47940fefe3699c423
+      internalID: -1285481688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2205
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57872d66b2eae46b7991b8434da51f
+      internalID: -495153856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2204
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477fcd15fb75a748a8e7886856e2bcb
+      internalID: -2033583344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_56
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2205
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a2129ab3df137458879e1441cf8ba5
+      internalID: 58140468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_57
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2207
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833127c1af7a2b4eac8796b71587db9
+      internalID: 363358561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_58
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2204
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8677c105a824b042b9c366ef9caca46
+      internalID: 2127451038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_59
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2204
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c09787a8fff04ca48cd38ea6575ba
+      internalID: 487734088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2105
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8310ed6500b7e84da18862082024f15
+      internalID: 269301877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2104
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a12062ae85ea40890275fdf5fa665
+      internalID: -1613884630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2105
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511953add3412649b01d71c91bf0448
+      internalID: -318126613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2104
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e493555454a141a3a279bd690a9c7
+      internalID: 140705382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_64
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2104
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276fe1505c4f59a4c95e52ca3f704322
+      internalID: 1535881760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_65
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2104
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a1e54fc0385f41a77a30f713a4747
+      internalID: 1942973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2009
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdbdb34f94d0464c80e96deeadcf8e4
+      internalID: -1596318164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2004
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e9a1dd95a0f949a9f2c956ba8346b
+      internalID: 656389459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2005
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc277ecc3a891646b57468382c19c72
+      internalID: 2066838810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_69
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2007
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eb20e2b78dbe64ca4c44f99093f050
+      internalID: -699079172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_70
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2004
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595a9d44fe498447bb9f0548019b6a1
+      internalID: 1048621404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_71
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2004
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c9be710d5ba944ac756ef37c8ff19
+      internalID: -1478332345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_72
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1905
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888c26ad0f7dfb4ca6e2b1dd827c727
+      internalID: -266699218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1904
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2cf1361eceb3443a38d8fb205fc414
+      internalID: 1225199287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_74
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1904
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b038562d1fe2742a7909a770cc6e2d
+      internalID: -2080435155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1904
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00ec34e4c3a30428a77b04c9e0c8dc
+      internalID: -1399942624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_76
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1904
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd6b4c3c649c14e8a034eec15ca33f
+      internalID: 2102381402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_77
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1904
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bc8cd946a37854eafee6368d320024
+      internalID: 1864798369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_78
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1809
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002e366a5653ee4c8c5a168dffc48b6
+      internalID: -2027334202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_79
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1804
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c647b621976c4e4b95b18f5a9b8d7e9
+      internalID: -1249729806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1805
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23196c8731584614f8649c9af9d43da3
+      internalID: 1716656861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_81
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1807
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3997d8fa83a3ae4c8898c03c80328f2
+      internalID: 1093102294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_82
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1804
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb065d35325c64587fbbe3dc5dddb2
+      internalID: 33398849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_83
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1804
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086b8d08f417f84393e81cd25ca5ced
+      internalID: -2085077261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1705
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446747590fed88649be0f52f786e47ec
+      internalID: -844521042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1704
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca580012dc9b542b6bf6f5dca04d40
+      internalID: 1363745142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1705
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5332a7a18445d6244b76fb428e2642b3
+      internalID: 239788981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_87
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1704
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7916246565421418a25169050492d4
+      internalID: -586567120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_88
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1704
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bab5be37db61e49961318be8744269
+      internalID: 127300968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_89
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1704
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702980906e7acbb4cae2dc4bffb1476d
+      internalID: 1056852686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1605
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f95e64ee797654c83c701be593fc83
+      internalID: 1826857545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_91
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1604
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69bbac94b51fc4e8fd79c0be43fab2
+      internalID: 56827100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1605
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d252e8db2ed5f3b4f999860d0ff423bd
+      internalID: -2075341440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_93
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1607
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371d75a07345ca45b89f77a6e2e6487
+      internalID: -845865064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_94
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1604
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c789b96fe026924f9b0cd3f5af04026
+      internalID: 180165231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_95
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1604
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280700839c68fc42bdba2796b2e7200
+      internalID: -288164436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_96
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1504
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c994df7a01478945a9d248e229dd421
+      internalID: 450510361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1504
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e12a49f4afca74495a95b91a9569fe
+      internalID: -2125596466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_98
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1507
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9c4fefd0b6a444b907cc4e67fa09ff
+      internalID: 1908147528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_99
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1504
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b907889d9df4dae43be93b562a6b49e3
+      internalID: 1202654075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_100
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1505
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ac39b8ee21dd4ebb0ea85d2d76a9f
+      internalID: -15467462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_101
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1504
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be555b2d2f057343aa9c3820de00730
+      internalID: -1016333438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_102
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1404
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6801913123c34c9cf08966a4a83ce
+      internalID: 891831992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1407
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce4b6c81eb38d45b84ba476f59d63a
+      internalID: -1550220406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_104
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1409
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746002aaeeaf1e948b1443f616ebeca5
+      internalID: -1528518828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_105
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1434
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ec48098bd41743ba609bd3268505a
+      internalID: -1427361510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1407
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a76b470daed31f4f9d7adee95002f30
+      internalID: -127808578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_107
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1407
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a5df6259fcf94e8db9c618eb69b07
+      internalID: -335572166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_108
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1407
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d960e96425924784bff04e3616bc4
+      internalID: -1618271429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1304
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055c474f852f5c49a88d8518e106ca6
+      internalID: 182159028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_110
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1304
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b4feba821f224aaa4322a35e22075
+      internalID: -1564763198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_111
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1302
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea426c3165bbca4bb05e40b69437a3d
+      internalID: -1973007739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_112
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1301
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc488c1e7e5224faaec0409abe559d
+      internalID: -366830065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_113
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1304
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874986c7ef926f64c9493dc6d5e7d4e3
+      internalID: 19649239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_114
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1304
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc03e3c341a392b489c7f3ec1ff7c47f
+      internalID: 341353002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1206
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f39fd903a6a4048a0f089c69e1fc81
+      internalID: -628402039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_116
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1204
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f7319a8a326548b9be9aba00f1042
+      internalID: -1682870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_117
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1204
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe981cb213c70448a218a052d75708
+      internalID: -1806149980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_118
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1204
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1909725e3b1745b2c057a76f5e459
+      internalID: 1801719875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_119
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1202
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a662002bad2b8e04cb59df65c39d846c
+      internalID: -24399704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_120
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1201
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a869f615615534999c4e754556de92
+      internalID: 527107915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_121
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1109
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd1e27a79534147a126b650ed45ee0
+      internalID: -1275027280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_122
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1107
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590143c52aba0414ca42a36f79e566bc
+      internalID: -548052248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_123
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1107
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8ae1dd85baac42b62c275e67e1941
+      internalID: 987884944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_124
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1107
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a38f84fcbf315b45b4da0fb8f41bb18
+      internalID: 1727127073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_125
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1105
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ce3e4a30e5e5d4688fa8c12f571c59
+      internalID: -465609375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_126
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1104
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cc0595ee72b40499dd4f7ca4b36d4c
+      internalID: -221371595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_127
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1004
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5c5b6265e065848b7341c4c7267536
+      internalID: -538427573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_128
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1007
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d283f0eb9a24c94c961725209fe810a
+      internalID: 837363023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_129
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1009
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d138e571f938e434ba21acb3e5e55de7
+      internalID: 2036106271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_130
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1005
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08840ebbd32ae6449a7cfba2642de92
+      internalID: 1402465316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_131
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1041
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20673e68288a9fa4982322cb8c7b35ad
+      internalID: 1763598901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_132
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1007
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856d49c644bc704f84ee41b423d54fd
+      internalID: -344952750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_133
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1007
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ed61392fe01e48b914219bd63f1e4
+      internalID: -1220249055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_134
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 907
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f118c70b0d0540418fb086287d880f7
+      internalID: 880861003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_135
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 959
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba858e1495f851046a9eea99d55f3062
+      internalID: 966868005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 907
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dc1731b59b7a746a9eeb30304a6289
+      internalID: 442199870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 904
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f0c408e418304cbd0216ef413db11
+      internalID: 195019621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_138
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 905
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425c33f41b951b46b888edc0a8917d1
+      internalID: -655231066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_139
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 905
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0450cb82fef7b4986e5a2ee33d31fc
+      internalID: 867947849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_140
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 905
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db83bf0fabd244a9c57b00ced477bf
+      internalID: 503019429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_141
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 945
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e565bb98515cc42a7d0676bfc5272a
+      internalID: -1433170592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_142
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 942
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631c6bc8cb46ba43805c70bba61e4fa
+      internalID: -693722197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_143
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 930
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43acf97ce6e43e46b530a25dad9ba74
+      internalID: 1816757305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_144
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 907
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d432cb8829a48409aadfee1e31e9a9
+      internalID: -1045379988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_145
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 805
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95164b1600b5547b960bf7f0c210b4
+      internalID: 521533647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_146
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 805
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac670c2d3c01848846c0bb6b29d694
+      internalID: -64555165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 805
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a57f1d60e2e9c4ca5ed39fc09a6611
+      internalID: -1364269250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_148
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 805
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f835150bd7de7e488bf403a457f396d
+      internalID: 1162181996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_149
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 805
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a4e7f6050f6d4a9747bb378261072
+      internalID: -2125962615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_150
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 804
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f24913593c715a4ca49fc2fdb35ed9d
+      internalID: -420917076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_151
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 705
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75661575c79c86142bf219fbd6150357
+      internalID: 1376172072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_152
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 705
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d329129b86df9b43b5704331f694af1
+      internalID: 1058973451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_153
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a44cc46167974cac892e43b125d8b
+      internalID: 1872312338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 706
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff936ff092fa4b241a645db5a3b50798
+      internalID: -308323283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_155
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 706
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85adddcde474d4d4a83797cc0327e9b7
+      internalID: 1932472724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_156
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 706
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f433b1f4050c4a95cc3c095dbe0d1
+      internalID: -477360411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_157
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 606
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839baf010a70bfd4e8c16730e5a0f009
+      internalID: 1078522048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_158
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0426b81e53c6e8544997e6f7f98ae44a
+      internalID: -1724802370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_159
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 606
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d247f482a83346878bb4dde82fd3c
+      internalID: -1696696115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_160
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 604
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d725857f91670494fa457709ce7d3202
+      internalID: -41550385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_161
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 604
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d319873db83a143b9ded8c76748509
+      internalID: -2002342876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_162
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 604
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444693a602b3e8f43ba025f6c387153b
+      internalID: -340285129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a982fb5a907db4da430a653d2c2c37
+      internalID: -826979605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_164
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 604
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382eae3402e837d41a73bd078721a83b
+      internalID: 906936650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_165
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 640
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e37071666d8c0a4d9ca537416b5afff
+      internalID: 980975971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_166
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 504
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea37b7fa7ffa69409add2260923535b
+      internalID: 1528088138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_167
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 504
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943fcddd778af64d8d732e4fe52ae99
+      internalID: 1871952027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_168
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 504
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8ca729afb70345b2f54d2e247cb70
+      internalID: 92337887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_169
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 504
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f3458e06e0ac54bbab82039a16d751
+      internalID: 540854303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_170
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 504
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640da3bb66de63a47aa2d9d8307a9290
+      internalID: -1026530016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_171
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 504
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f359bb481d48439319d5ee3211d6c
+      internalID: -1787984048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_172
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 404
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fe35e8be1806f4da6d0e5b6ace6abe
+      internalID: 1419140592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 404
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392abb96814fbc40a879f83c4da29d8
+      internalID: 1372619789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_174
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 404
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfef1bd473984864789154ad85cd7644
+      internalID: 500009984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_175
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 404
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581cdda578be28479d0bda3f90a88ec
+      internalID: -942667974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_176
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 404
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51be896a19454b41a4d2711b715b76e
+      internalID: -1472947243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_177
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 404
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac882edd78b32374b832bab62aab545e
+      internalID: -1803840224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_178
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 304
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a70182830ba8264ba84f9663d18081d
+      internalID: 441129619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_179
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 304
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a435a598b13c4396c8ac9e92bc9b2
+      internalID: 519251189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_180
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 304
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb04506e317c0408bbbdb9b50f4ef6
+      internalID: -1924852211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_181
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 304
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2313a4e333107d4ebeafb9d600575a9
+      internalID: 1119553360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_182
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 304
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f7f6eb5a08ec439d26d39fb93012e
+      internalID: 1023188446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_183
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 304
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8817787181e3874eacc32a5d1b431b7
+      internalID: -426984586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_184
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df44a7e2fca413a44ad6e6e69f8fbb7b
+      internalID: -330477557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_185
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd779ec06230d8a459fa549f27209699
+      internalID: 1437195836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_186
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 204
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba926aabc9e1049ae7226cb50ad5ec
+      internalID: 528968962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_187
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 204
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499c3886cd11b14cb0faf0967f42161
+      internalID: 888661856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_188
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 204
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99af55eeaae55c48b05200c71bc580f
+      internalID: -1637866643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_189
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 204
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0814449f43fd04da0c2a6317e112bb
+      internalID: -1227425186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_190
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 104
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802d991cabb1e54ca3fdab8add861e0
+      internalID: -1807223832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_191
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 105
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e205c5ea1106214aa5cb989ff615e59
+      internalID: -1909062492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_192
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 105
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36efc99bbc4144db91f012069b0253
+      internalID: 1932078338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_193
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83908d39cc7a2084a8420867703ac746
+      internalID: 1616915505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_194
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 105
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e2c976c5831f4282481261a212400
+      internalID: -538058116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_195
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 105
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008bd2fe3b99b0849a0fe59b3fafb5be
+      internalID: 705310933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_196
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdc9e75fc2eb1645a85f3968050bed1
+      internalID: 1073465610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_197
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44aaa015d891e4fbd7c87dd7c7aa3c
+      internalID: 326342552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementPack_1_198
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d3d2940b054541aec3cb09cf31e4e
+      internalID: -201046268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MovementPack_1_130: 1402465316
+      MovementPack_1_123: 987884944
+      MovementPack_1_185: 1437195836
+      MovementPack_1_5: -1795907106
+      MovementPack_1_30: 702184129
+      MovementPack_1_145: 521533647
+      MovementPack_1_94: 180165231
+      MovementPack_1_80: 1716656861
+      MovementPack_1_81: 1093102294
+      MovementPack_1_146: -64555165
+      MovementPack_1_83: -2085077261
+      MovementPack_1_195: 705310933
+      MovementPack_1_77: 1864798369
+      MovementPack_1_60: 269301877
+      MovementPack_1_116: -1682870241
+      MovementPack_1_42: 1374679129
+      MovementPack_1_62: -318126613
+      MovementPack_1_197: 326342552
+      MovementPack_1_70: 1048621404
+      MovementPack_1_88: 127300968
+      MovementPack_1_168: 92337887
+      MovementPack_1_1: -761308432
+      MovementPack_1_18: -580411853
+      MovementPack_1_194: -538058116
+      MovementPack_1_26: 707209643
+      MovementPack_1_109: 182159028
+      MovementPack_1_144: -1045379988
+      MovementPack_1_134: 880861003
+      MovementPack_1_120: 527107915
+      MovementPack_1_106: -127808578
+      MovementPack_1_157: 1078522048
+      MovementPack_1_173: 1372619789
+      MovementPack_1_78: -2027334202
+      MovementPack_1_15: 970489244
+      MovementPack_1_186: 528968962
+      MovementPack_1_164: 906936650
+      MovementPack_1_104: -1528518828
+      MovementPack_1_125: -465609375
+      MovementPack_1_179: 519251189
+      MovementPack_1_180: -1924852211
+      MovementPack_1_75: -1399942624
+      MovementPack_1_6: 1206816808
+      MovementPack_1_40: -1510513088
+      MovementPack_1_72: -266699218
+      MovementPack_1_182: 1023188446
+      MovementPack_1_127: -538427573
+      MovementPack_1_149: -2125962615
+      MovementPack_1_114: 341353002
+      MovementPack_1_28: -2004962642
+      MovementPack_1_35: 1700866618
+      MovementPack_1_39: 1907033642
+      MovementPack_1_19: -1809562430
+      MovementPack_1_48: -48465136
+      MovementPack_1_65: 1942973433
+      MovementPack_1_198: -201046268
+      MovementPack_1_41: 401700293
+      MovementPack_1_96: 450510361
+      MovementPack_1_191: -1909062492
+      MovementPack_1_162: -340285129
+      MovementPack_1_23: 1535118309
+      MovementPack_1_59: 487734088
+      MovementPack_1_12: -601057194
+      MovementPack_1_29: -642040023
+      MovementPack_1_71: -1478332345
+      MovementPack_1_135: 966868005
+      MovementPack_1_132: -344952750
+      MovementPack_1_9: 1640257978
+      MovementPack_1_45: -748916354
+      MovementPack_1_181: 1119553360
+      MovementPack_1_79: -1249729806
+      MovementPack_1_148: 1162181996
+      MovementPack_1_14: 1268265501
+      MovementPack_1_110: -1564763198
+      MovementPack_1_13: 951560331
+      MovementPack_1_20: -603348201
+      MovementPack_1_153: 1872312338
+      MovementPack_1_36: -1380677993
+      MovementPack_1_27: -1185432877
+      MovementPack_1_51: 1097305485
+      MovementPack_1_10: -1636015679
+      MovementPack_1_47: 822189024
+      MovementPack_1_129: 2036106271
+      MovementPack_1_161: -2002342876
+      MovementPack_1_50: 84023409
+      MovementPack_1_64: 1535881760
+      MovementPack_1_112: -366830065
+      MovementPack_1_154: -308323283
+      MovementPack_1_38: 1854414896
+      MovementPack_1_155: 1932472724
+      MovementPack_1_7: 1170858319
+      MovementPack_1_119: -24399704
+      MovementPack_1_69: -699079172
+      MovementPack_1_140: 503019429
+      MovementPack_1_136: 442199870
+      MovementPack_1_131: 1763598901
+      MovementPack_1_63: 140705382
+      MovementPack_1_151: 1376172072
+      MovementPack_1_46: -2145932322
+      MovementPack_1_90: 1826857545
+      MovementPack_1_196: 1073465610
+      MovementPack_1_58: 2127451038
+      MovementPack_1_66: -1596318164
+      MovementPack_1_176: -1472947243
+      MovementPack_1_97: -2125596466
+      MovementPack_1_31: 214785439
+      MovementPack_1_159: -1696696115
+      MovementPack_1_156: -477360411
+      MovementPack_1_98: 1908147528
+      MovementPack_1_4: -984068636
+      MovementPack_1_89: 1056852686
+      MovementPack_1_189: -1227425186
+      MovementPack_1_99: 1202654075
+      MovementPack_1_175: -942667974
+      MovementPack_1_25: -830623037
+      MovementPack_1_82: 33398849
+      MovementPack_1_152: 1058973451
+      MovementPack_1_111: -1973007739
+      MovementPack_1_8: -943812139
+      MovementPack_1_21: -1448494261
+      MovementPack_1_150: -420917076
+      MovementPack_1_108: -1618271429
+      MovementPack_1_193: 1616915505
+      MovementPack_1_33: -1205336882
+      MovementPack_1_74: -2080435155
+      MovementPack_1_53: -1285481688
+      MovementPack_1_117: -1806149980
+      MovementPack_1_138: -655231066
+      MovementPack_1_122: -548052248
+      MovementPack_1_115: -628402039
+      MovementPack_1_139: 867947849
+      MovementPack_1_3: -1303829588
+      MovementPack_1_93: -845865064
+      MovementPack_1_34: -1371055138
+      MovementPack_1_118: 1801719875
+      MovementPack_1_54: -495153856
+      MovementPack_1_105: -1427361510
+      MovementPack_1_92: -2075341440
+      MovementPack_1_16: 2009838777
+      MovementPack_1_166: 1528088138
+      MovementPack_1_167: 1871952027
+      MovementPack_1_84: -844521042
+      MovementPack_1_55: -2033583344
+      MovementPack_1_121: -1275027280
+      MovementPack_1_86: 239788981
+      MovementPack_1_43: -843352890
+      MovementPack_1_184: -330477557
+      MovementPack_1_107: -335572166
+      MovementPack_1_183: -426984586
+      MovementPack_1_76: 2102381402
+      MovementPack_1_95: -288164436
+      MovementPack_1_163: -826979605
+      MovementPack_1_174: 500009984
+      MovementPack_1_32: -920290785
+      MovementPack_1_91: 56827100
+      MovementPack_1_124: 1727127073
+      MovementPack_1_171: -1787984048
+      MovementPack_1_170: -1026530016
+      MovementPack_1_49: 1318697935
+      MovementPack_1_143: 1816757305
+      MovementPack_1_192: 1932078338
+      MovementPack_1_68: 2066838810
+      MovementPack_1_61: -1613884630
+      MovementPack_1_172: 1419140592
+      MovementPack_1_11: -1371328814
+      MovementPack_1_188: -1637866643
+      MovementPack_1_113: 19649239
+      MovementPack_1_169: 540854303
+      MovementPack_1_0: 1164292975
+      MovementPack_1_37: 1390985322
+      MovementPack_1_2: -960157259
+      MovementPack_1_165: 980975971
+      MovementPack_1_44: -1747340678
+      MovementPack_1_57: 363358561
+      MovementPack_1_160: -41550385
+      MovementPack_1_17: 548850501
+      MovementPack_1_24: -1553369884
+      MovementPack_1_22: 1871119568
+      MovementPack_1_128: 837363023
+      MovementPack_1_177: -1803840224
+      MovementPack_1_126: -221371595
+      MovementPack_1_102: 891831992
+      MovementPack_1_190: -1807223832
+      MovementPack_1_56: 58140468
+      MovementPack_1_101: -1016333438
+      MovementPack_1_52: -1234900209
+      MovementPack_1_67: 656389459
+      MovementPack_1_187: 888661856
+      MovementPack_1_141: -1433170592
+      MovementPack_1_178: 441129619
+      MovementPack_1_103: -1550220406
+      MovementPack_1_147: -1364269250
+      MovementPack_1_87: -586567120
+      MovementPack_1_133: -1220249055
+      MovementPack_1_137: 195019621
+      MovementPack_1_142: -693722197
+      MovementPack_1_158: -1724802370
+      MovementPack_1_73: 1225199287
+      MovementPack_1_85: 1363745142
+      MovementPack_1_100: -15467462
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
