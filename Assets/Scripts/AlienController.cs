@@ -27,7 +27,7 @@ public class AlienController : MonoBehaviour
             animator.SetBool("Move", false);
             animator.SetBool("Attack", true);
         }
-        else if (distanceToPlayer <= 6f)
+        else if (distanceToPlayer <= 15f)
         {
             navMeshAgent.isStopped = false;
             animator.SetBool("Move", true);
